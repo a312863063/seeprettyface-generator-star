@@ -11,7 +11,7 @@
 ## 概览（有筛选）
 ![Image text](https://github.com/a312863063/seeprettyface-generator-star/blob/master/examples/64_examples.jpg)
 <br /><br /><br />
-查看更多的生成样本可以前往[新数据集](http://www.seeprettyface.com/mydataset.html#asian_stars)（1万张）
+查看更多的生成样本可以前往[这里](https://pan.baidu.com/s/1g5ASVZcRoYvClxqsQpShXQ)（提取码：XVAL），是一个含有1万张生成样本的明星脸数据集。
 
 # 运行代码
 ## 环境配置
