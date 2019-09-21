@@ -22,6 +22,7 @@
 
 ## 运行步骤
 &emsp;&emsp;1.在model文件夹中按照txt地址下载模型，放在该位置<br/>
+&emsp;&emsp;&emsp;&emsp;注明：此模型训练不易，对于开发者来说可能需要付费购买。<br/>
 &emsp;&emsp;2.运行generate_yellow.py<br/>
 <br /><br /><br />
 ## 获取训练集：[点此下载](http://www.seeprettyface.com/mydataset_page2.html)
