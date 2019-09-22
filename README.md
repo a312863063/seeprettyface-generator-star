@@ -11,7 +11,7 @@
 ## 概览（有筛选）
 ![Image text](https://github.com/a312863063/seeprettyface-generator-star/blob/master/examples/64_examples.jpg)
 <br /><br /><br />
-查看更多的生成样本可以前往[这里](https://pan.baidu.com/s/1g5ASVZcRoYvClxqsQpShXQ)（提取码：XVAL），是一个含有1万张生成样本的明星脸数据集。
+查看更多的生成样本可以前往[这里](https://pan.baidu.com/s/1g5ASVZcRoYvClxqsQpShXQ)（提取码：XVAL），是一个含有1万张生成样本的明星脸数据集。<br /><br /><br />
 
 # 明星脸属性编辑
 &emsp;&emsp;人脸属性编辑目前支持在笑容、年龄、角度、性别和光照5个维度上对生成人物作出调整。
