@@ -32,7 +32,7 @@
 <br/><br/><br />
 
 ## 想玩更多？
-&emsp;&emsp;对于想玩现实明星生成的人，可以考虑使用现实明星编码器（需另外单独购买）,<b>不过潜在法律后果由使用者承担，本人概不负责。</b>下面展示一个由明星脸生成器生成的“迪丽热巴”(只是一个长得像迪丽热巴的“生成人”)。<br/>
+&emsp;&emsp;对于想玩现实明星生成的人，可以考虑使用现实明星编码器,<b>不过潜在法律后果由使用者承担，本人概不负责。</b>下面展示一个由明星脸生成器生成的“迪丽热巴”(只是一个长得像迪丽热巴的“生成人”)。<br/>
 ![Image text](https://github.com/a312863063/seeprettyface-generator-star/blob/master/examples/dlrb/fake-dlrb.png)
 ## 笑容调整
 ![Image text](https://github.com/a312863063/seeprettyface-generator-star/blob/master/examples/dlrb/dlrb_smile.jpg)
