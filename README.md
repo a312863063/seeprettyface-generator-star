@@ -29,7 +29,26 @@
 <br/><br/>
 ## 光照调整
 ![Image text](https://github.com/a312863063/seeprettyface-generator-star/blob/master/examples/edit_exposure.jpg)
+<br/><br/><br />
+
+## 想玩更多？
+&emsp;&emsp;对于想玩现实明星生成的人，可以考虑使用现实明星编码器（需另外单独购买）,<b>不过潜在法律后果由使用者承担，本人概不负责。</b>下面展示一个由明星脸生成器生成的“迪丽热巴”。(只是一个长得像迪丽热巴的人)<br/>
+![Image text](https://github.com/a312863063/seeprettyface-generator-star/blob/master/examples/dlrb/fake-dlrb.png)
+## 笑容调整
+![Image text](https://github.com/a312863063/seeprettyface-generator-star/blob/master/examples/dlrb/dlrb_smile.jpg)
 <br/><br/>
+## 年龄调整
+![Image text](https://github.com/a312863063/seeprettyface-generator-star/blob/master/examples/dlrb/dlrb_age.jpg)
+<br/><br/>
+## 角度调整
+![Image text](https://github.com/a312863063/seeprettyface-generator-star/blob/master/examples/dlrb/dlrb_angle.jpg)
+<br/><br/>
+## 性别调整
+![Image text](https://github.com/a312863063/seeprettyface-generator-star/blob/master/examples/dlrb/dlrb_gender.jpg)
+<br/><br/>
+## 发量调整
+![Image text](https://github.com/a312863063/seeprettyface-generator-star/blob/master/examples/dlrb/dlrb_hair.jpg)
+<br/><br/><br />
 
 # 运行代码
 ## 环境配置
@@ -40,7 +59,7 @@
 
 ## 运行步骤
 &emsp;&emsp;1.在model文件夹中按照txt地址下载模型，放在该位置<br/>
-&emsp;&emsp;&emsp;&emsp;注明：此模型训练不易，对于开发者来说可能需要付费购买，前50名购买者免费赠送人脸属性编辑器。<br/>
+&emsp;&emsp;&emsp;&emsp;注明：此模型训练不易，对于开发者来说可能需要付费购买，前50名购买者免费赠送人脸属性编辑器。现实明星编码器需单独购买。<br/>
 &emsp;&emsp;2.运行generate_star.py<br/>
 <br /><br /><br />
 ## 获取训练集：[点此下载](http://www.seeprettyface.com/mydataset_page2.html)
