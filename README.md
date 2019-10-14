@@ -48,6 +48,6 @@
 ## 获取训练集：[点此下载](http://www.seeprettyface.com/mydataset_page2.html)
 ![Image text](https://github.com/a312863063/seeprettyface/blob/master/EP001-01.png)<br/><br/><br/>
 
-# 赞助地址
+## 小小的赞助~
 ![Image text](https://github.com/a312863063/seeprettyface/blob/master/sponse.png)<br/><br/><br/>
 
