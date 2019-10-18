@@ -1,6 +1,6 @@
 # 明星人脸生成器
 <br />
-&emsp;&emsp;<b>注明：这个项目之前收费过一段时间，在此衷心地感谢那些购买者给我提供的支持。目前已全部免费开源，希望能帮助到更多的人。如果真的对您有帮助的话，可以给予一些小小的赞助蟹蟹~</b><br />
+&emsp;&emsp;<b>注明：<a href='https://github.com/a312863063/seeprettyface-generator-star' target='_blank'>明星脸生成器</a>与<a href='https://github.com/a312863063/seeprettyface-generator-model' target='_blank'>超模脸生成器</a>是之前有人找我定制的，为保障客户权益这两个模型不再免费开源，有需求者可联系QQ312863063获取。</b><br />
 --------------------------------------------------------------------------------------------------------------------<br /><br />
 &emsp;&emsp;这是一个用StyleGAN训练出的明星人脸生成器，生成效果如下所示。<br /><br /><br />
 
@@ -47,14 +47,3 @@
 <br /><br /><br />
 ## 获取训练集：[点此下载](http://www.seeprettyface.com/mydataset_page2.html)
 ![Image text](https://github.com/a312863063/seeprettyface/blob/master/EP001-01.png)<br/><br/><br/>
-
-## 小小的赞助~
-<p align="center">
-	<img src="https://github.com/a312863063/seeprettyface/blob/master/sponsor.jpg" alt="Sample"  width="324" height="504">
-	<p align="center">
-		<em>模型训练不易，若对您有帮助可给予小小的支持~</em>
-	</p>
-</p>
-<br/><br/><br/>
-
-
