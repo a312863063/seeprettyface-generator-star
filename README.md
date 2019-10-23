@@ -1,7 +1,5 @@
 # 明星人脸生成器
 <br />
-&emsp;&emsp;<b>注明：<a href='https://github.com/a312863063/seeprettyface-generator-star' target='_blank'>明星脸生成器</a>与<a href='https://github.com/a312863063/seeprettyface-generator-model' target='_blank'>超模脸生成器</a>是之前有人找我定制的，为保障客户权益这两个模型不再免费开源，模型获取方式参见model文件夹中的txt文件。</b><br />
-----------------------------------------------------------------------------------------------------------------------------<br /><br />
 &emsp;&emsp;这是一个用StyleGAN训练出的明星人脸生成器，生成效果如下所示。<br /><br /><br />
 
 # 生成示例
@@ -43,6 +41,7 @@
 
 ## 运行步骤
 &emsp;&emsp;1.在model文件夹中按照txt地址下载模型，放在该位置<br/>
+&emsp;&emsp;&emsp;&emsp;注明：由于此模型训练成本高，需付费购买，获取方式参见model/模型下载地址.txt。<br/>
 &emsp;&emsp;2.运行generate_star.py<br/>
 <br /><br /><br />
 ## 获取训练集：[点此下载](http://www.seeprettyface.com/mydataset_page2.html)
