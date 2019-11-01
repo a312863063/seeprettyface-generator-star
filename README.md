@@ -1,5 +1,8 @@
 # 明星人脸生成器
 <br />
+&emsp;&emsp;注明：这是我之前研一的时候做的一些有意思的人脸生成器，现在全部开源分享出来。它的主要作用是可生成制作各类型的人脸素材，供我们任意使用且无须担心人脸版权的问题。<br />
+&emsp;&emsp;在定制人脸上，开源的全系列生成器包括：<a href='https://github.com/a312863063/seeprettyface-generator-yellow'>黄种人脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-wanghong'>网红脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-star'>明星脸生成器</a>，<a href='https://github.com/a312863063/seeprettyface-generator-model'>超模脸生成器</a>和<a href='https://github.com/a312863063/seeprettyface-generator-babies'>萌娃脸生成器</a>，同时<a href='https://github.com/a312863063/seeprettyface-face_editor'>人脸属性编辑器</a>能够对所有这些生成器生成的人物进行调整和改变。如果模型真的对您有帮助的话，欢迎在底部给予小小的赞助蟹蟹~<br />
+--------------------------------------------------------------------------------------------------------------------<br /><br />
 &emsp;&emsp;这是一个用StyleGAN训练出的明星人脸生成器，生成效果如下所示。<br /><br /><br />
 
 # 生成示例
@@ -41,8 +44,17 @@
 
 ## 运行步骤
 &emsp;&emsp;1.在model文件夹中按照txt地址下载模型，放在该位置<br/>
-&emsp;&emsp;&emsp;&emsp;注明：由于此模型训练成本高，需付费购买，获取方式参见model/模型下载地址.txt。<br/>
 &emsp;&emsp;2.运行generate_star.py<br/>
 <br /><br /><br />
 ## 获取训练集：[点此下载](http://www.seeprettyface.com/mydataset_page2.html)
 ![Image text](https://github.com/a312863063/seeprettyface/blob/master/EP001-01.png)<br/><br/><br/>
+
+## 小小的赞助~
+<p align="center">
+	<img src="https://github.com/a312863063/seeprettyface/blob/master/sponsor.jpg" alt="Sample"  width="324" height="504">
+	<p align="center">
+		<em>若对您有帮助可给予小小的赞助~</em>
+	</p>
+</p>
+<br/><br/><br/>
+
